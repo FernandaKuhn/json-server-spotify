@@ -1,17 +1,46 @@
 {
-    "music": [
-      { "id": 1, 
-          "name": "Legends never die", 
-          "artist": "Against the Current", 
-          "urlImg": "https://i.scdn.co/image/ab67616d0000b273cb5ec46d6f1d2cf8d36d3663" },
-        
-       { "id": 2, "name": "Enemy", "artist": "Imagine Dragons", "urlImg": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0cd265130636097.61842df318d10.jpg" },
-       { "id": 3, "name": "Ticking Away", "artist": " Bbno$", "urlImg": "https://i.scdn.co/image/ab67616d0000b2732dec0133eb6e5dd2ea17ebbb" },
-       { "id": 4, "name": "Peaches", "artist": "Jack Black", "urlImg": "https://hips.hearstapps.com/hmg-prod/images/copy-of-del-social-index-image-2023-04-18t095620-479-643ea2a7f2de7.png?crop=0.502xw:1.00xh;0.498xw,0&resize=1200:*" },
-       { "id": 5, "name": "Skyrim (Main Theme)", "artist": "Lindsey Stirling", "urlImg": "https://i.ytimg.com/vi/AVy7YPNP_zI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGEMgXyhlMA8=&rs=AOn4CLCRVbdGi9uYBPpERlhqzWEuc9EDjA" },
-       { "id": 6, "name": "Super Mario Bros. Theme funk", "artist": "desconhecido", "urlImg": "https://i.ytimg.com/vi/AYFXUzex3XQ/maxresdefault.jpg" },
-       { "id": 7, "name": "The Legend of Zelda", "artist": "Koji Kondo", "urlImg": "https://i.scdn.co/image/ab67616d0000b273039529a565300857a23df443" },
-       { "id": 8, "name": "Inkwell Isle One (Piano)", "artist": "desconhecido", "urlImg": "https://i1.sndcdn.com/artworks-000245185605-rwgdwy-t500x500.jpg" },
-  
-    ]
-  }
+  "artists": [
+    {
+      "id": 1,
+      "name": "Foo Fighters",
+      "genre": "Rock",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+    },
+    {
+      "id": 2,
+      "name": "Michael Jackson",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa"
+    },
+    {
+      "id": 3,
+      "name": "Emicida",
+      "genre": "Hip Hop",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174908b4b4bc90e1518b68b4068"
+    },
+    {
+      "id": 4,
+      "name": "Chitãozinho e Xororó",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab676161000051744606c59411c57f7b49588be4"
+    },
+    {
+      "id": 5,
+      "name": "Mc Coringa",
+      "genre": "Funk",
+      "urlImg": "https://i.scdn.co/image/ab67616d00001e02fe8f6dd361ad0f12b88c7f56"
+    },
+    {
+      "id": 6,
+      "name": "Arlindo Cruz",
+      "genre": "Samba",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174181873f93056642d7b340839"
+    },
+    {
+      "id": 7,
+      "name": "Caetano Veloso",
+      "genre": "MPB",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757"
+    }
+  ]
+}
